@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.myFooter {
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+}
