@@ -95,7 +95,7 @@ export const TaskCreate = () => {
                         <div className="grid grid-cols-3 gap-2 place-items-right">
                             <button
                                 className="m-5 bg-teal-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-                                <i className="fas fa-floppy"></i> Submit
+                                <i class="fas fa-save"></i> Submit
                             </button>
                         </div>
                     </div>
