@@ -8,7 +8,6 @@ export const TasksCrudApp = () => {
     return (
         <>
             <AppRouter />
-
             <Footer />
         </>
     )
